@@ -104,7 +104,7 @@ body {
     min-height: 100%;
     overflow: hidden;
     /* damit die scroll leiste verschwindet */
-    background: url(../img/bathroom_2.jpg) no-repeat center;
+    background: url(../img/unerfahren-min.jpg) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -112,11 +112,12 @@ body {
 .section-home h1 {
     font-family: 'Meie Script';
     margin-top: 5px;
-    font-size: 15em;
+    font-size: 5em;
     color: aliceblue;
-    text-shadow: 25px 25px 0 rgba(0, 0, 0, 0.4);
+    text-shadow: 25px 25px 0 rgba(105, 102, 102, 0.4);
     text-align: center;
-    padding-top: 150px;
+    padding-top: 170px;
+    padding-left: 115px;
 }
 
 .page-header {
@@ -149,7 +150,7 @@ body {
     overflow: hidden;
     /* damit die scroll leiste verschwindet */
     padding-top: 50px;
-    background: url(../img/pool.jpg) no-repeat center;
+    background: url(../img/auf_dem_trockenen-min.jpg) no-repeat center;
     background-size: cover;
     box-shadow: 0 30px 30px rgba(0, 0, 0, 0.5);
 }
@@ -179,7 +180,7 @@ body {
 
 .section-works h2 {
     font-family: 'Meie Script';
-    margin-top: 43px;
+    margin-top: 0;
     margin-bottom: 80px;
     font-size: 5em;
     color: aliceblue;
