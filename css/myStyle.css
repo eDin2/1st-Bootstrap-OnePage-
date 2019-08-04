@@ -57,7 +57,7 @@ body {
 
 .imgHoverTransition,
 .navbar-nav {
-    transition: all 200ms;
+    transition: all 400ms;
 }
 
 
